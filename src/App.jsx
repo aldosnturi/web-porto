@@ -355,7 +355,7 @@ export default function App() {
               </div>
 
               <a
-                href="https://github.com/aldosianturi"
+                href="https://github.com/aldosnturi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="shrink-0 inline-flex items-center gap-2 px-5 py-3 rounded-xl border border-gray-200 dark:border-gray-700 text-sm font-semibold text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-white/[0.05] hover:-translate-y-0.5 transition-all"
@@ -493,7 +493,7 @@ export default function App() {
 
                   {/* GITHUB */}
                   <a
-                    href="https://github.com/aldosianturi"
+                    href="https://github.com/aldosnturi"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center justify-between p-4 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-white/[0.02] hover:border-gray-500 hover:-translate-y-0.5 transition-all duration-300"
